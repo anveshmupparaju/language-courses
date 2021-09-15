@@ -1,0 +1,4 @@
+<aura:component>
+    <aura:attribute name="user" type="String" default="Anvesh"/>
+    <p>Hello {!v.user}!!!</p>
+</aura:component>	
